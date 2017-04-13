@@ -1,0 +1,12 @@
+{
+  "name": "codecov-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "codecov": "^2.1.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0",
+    "nyc": "^10.2.0"
+  }
+}
